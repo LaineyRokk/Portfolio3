@@ -9,7 +9,7 @@ Setup -Clone Repository provided by the GitHub link -Open HTTP server use brower
 Technology used: -HTML -CSS -ATOM GitHub remote repository
 
 gh-pages link:
-https://github.com/LaineyRokk/Portfolio_LP2/tree/gh-pages
+https://laineyrokk.github.io/Portfolio3/
 
 Contact Information laineyNrokk@gmail.com
 
